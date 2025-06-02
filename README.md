@@ -1,4 +1,4 @@
-----Refer to ahaarfrontend repository to the frontend code-----
+----Refer to ahaarfrontend repository for the frontend code-----
 
 🍴 Ahaar – Catering Service Platform
 
