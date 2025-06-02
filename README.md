@@ -1,4 +1,5 @@
 ----Refer to ahaarfrontend repository to the frontend code-----
+
 🍴 Ahaar – Catering Service Platform
 
 Ahaar is a full-stack web application for online catering services.
