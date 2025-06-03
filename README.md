@@ -20,15 +20,15 @@ Before running the project, make sure you have **Node.js** and **npm** installed
    git clone https://github.com/ashrayasjp/ahaarfull.git
 
 2. Go inside backend folder
-   cd backend
-   npm install
+   - cd backend
+   - npm install
 
 3. run backend
-   node server.js
+   - node server.js
   
 4. Create New Terminal
   
 5. npm install
 
-5. Start the frontend development server.
-   npm run dev
+6. Start the frontend development server
+   - npm run dev
