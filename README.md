@@ -1,6 +1,6 @@
 # 🍴 Ahaar – Catering Service Platform
 
-Ahaar is a full-stack web application for online catering services.
+Ahaar is a full-stack web application for online catering services where customers can caterers can connect.
 
 ## Features
 - User login and signup
